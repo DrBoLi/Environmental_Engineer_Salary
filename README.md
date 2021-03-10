@@ -48,7 +48,7 @@ I cleaned the data that was scrapped from the Indeed.
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the analysis.
 
 
-For more information, check out my Medium post [here](https://drboli.medium.com/thinking-about-listing-your-airbnb-in-seattle-check-out-this-pricing-tool-first-3f42f42f33ec).
+For more information, check out my Medium post [here](https://drboli.medium.com/trying-to-find-environmental-engineer-jobs-here-are-the-insights-from-1000-job-postings-65d796b1ac01).
 
 ## Licensing, Authors, and Acknowledgements
 For this analysis, I analyzed the data from Indeed.com on March 9th, 2021.

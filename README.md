@@ -27,7 +27,7 @@ The business questions that I am trying to understand are:
 
 ## File Descriptions
 
-'Indeed_scraper.ipyn' is the notebook for the webscrapper.
+`Indeed_scraper.ipyn` is the notebook for the webscrapper.
 Use web scraper to scrape 1000 job postings from indeed.com. With each job, we got the following:
 - Job title
 - Company
@@ -35,7 +35,7 @@ Use web scraper to scrape 1000 job postings from indeed.com. With each job, we g
 - Salary
 - Summary
 
-'EnvironmentalEngineerJobAnalysis.ipyn' is the main notebook for this analysis.
+`EnvironmentalEngineerJobAnalysis.ipyn` is the main notebook for this analysis.
 
 ## Data Cleaning
 I cleaned the data that was scrapped from the Indeed.
@@ -45,6 +45,9 @@ I cleaned the data that was scrapped from the Indeed.
 2. For Salary analysis, we will only keep the job infos with annual salary.
 
 ## Results
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the analysis.
+
+
 For more information, check out my Medium post [here](https://drboli.medium.com/thinking-about-listing-your-airbnb-in-seattle-check-out-this-pricing-tool-first-3f42f42f33ec).
 
 ## Licensing, Authors, and Acknowledgements

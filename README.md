@@ -37,6 +37,8 @@ Use web scraper to scrape 1000 job postings from indeed.com. With each job, we g
 
 `EnvironmentalEngineerJobAnalysis.ipyn` is the main notebook for this analysis.
 
+`environmentalengineer.csv` is the dataset that contains the raw data from Indeed.com on March 9th, 2021. 
+
 ## Data Cleaning
 I cleaned the data that was scrapped from the Indeed.
 
